@@ -25,3 +25,7 @@ disk eating: 18.9 KB
 remember to stick the files together, they dont work even if you drag 1 py file out, you can move the bat freely
 
 if you dont like the style of the launchpad, edit the python file, its easy to edit them
+
+releases at https://github.com/brianthanhbinh/launchpad-window/releases
+
+if you want to ask, join my discord server: https://discord.gg/HNPYr2VkB
